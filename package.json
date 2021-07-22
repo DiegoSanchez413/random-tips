@@ -1,0 +1,29 @@
+{
+  "type": "module",
+  "name": "random-tips",
+  "version": "1.0.2",
+  "description": "Random tips package for the health of programmers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "node",
+    "npm"
+  ],
+  "author": "Diego Sánchez <diegopalominosa@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-tip": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoSanchez413/random-tips.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DiegoSanchez413/random-tips/issues"
+  },
+  "homepage": "https://github.com/DiegoSanchez413/random-tips#readme"
+}
